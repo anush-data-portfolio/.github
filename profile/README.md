@@ -2,9 +2,9 @@
 
 I'm AnushKrishna VenkataKrishnan, a passionate engineer with a deep focus on Data Engineering, but I also dabble in Software Engineering and Data Science. Here, I showcase my major Software Engineering, Data Engineering, and Data Science projects.
 
-Feel free to explore my work and learn more about my journey as an engineer who loves to build innovative solutions and tackle real-world challenges.
+## Explore my work below, each repository is a solution I built using my skills to make my life as a grad student easier. 
 
-## About Me 🧑‍💻
+### About Me 🧑‍💻
 
 | **Name**               | AnushKrishna VenkataKrishnan |
 |-----------------------|---------------------------|
