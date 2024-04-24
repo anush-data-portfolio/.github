@@ -1,6 +1,8 @@
 # AnushKrishna VenkataKrishnan's Portfolio 🚀
 
-I'm AnushKrishna VenkataKrishnan, a passionate engineer with a deep focus on Data Engineering, but I also dabble in Software Engineering and Data Science. Here, I showcase my major Software Engineering, Data Engineering, and Data Science projects.
+I'm AnushKrishna VenkataKrishnan, an enthusiastic engineer specializing in Data Engineering while also engaging in Software Engineering and Data Science. This portfolio highlights my significant projects across these three domains.
+
+Currently, I am delving into the application of AI in Software Engineering, with a particular focus on Software Maintenance. My goal is to explore innovative methods for automating refactoring processes.
 
 ## Explore my work below, each repository is a solution I built using my skills to make my life as a grad student easier. 
 
