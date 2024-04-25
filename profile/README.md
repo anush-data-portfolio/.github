@@ -10,7 +10,7 @@ Currently, I am delving into the application of AI in Software Engineering, with
 
 | **Name**               | AnushKrishna VenkataKrishnan |
 |-----------------------|---------------------------|
-| **Location**           | Rochester, NY            |
+| **Location**           | New York           |
 | **Email**              | [anush.venkatakrishna@gmail.com](mailto:anush.venkatakrishna@gmail.com)   |
 | **GitHub**             | [github.com/anushkrishnav](https://github.com/anushkrishnav)    |
 | **LinkedIn**           | [linkedin.com/in/anushkrishnav](https://linkedin.com/in/anushkrishnav)  |
