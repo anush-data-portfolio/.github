@@ -2,7 +2,7 @@
 
 I'm AnushKrishna VenkataKrishnan, an engineer specializing in Data Engineering and building solutions at the intersection of Software Engineering and Data Science. This portfolio highlights my significant projects across these domains.
 
-## Explore my work below, each repository is a solution I built using my skills to make my life as a grad student easier. 
+<!-- ## Explore my work below, each repository is a solution I built using my skills to make my life as a grad student easier.  -->
 
 ### About Me 🧑‍💻
 
